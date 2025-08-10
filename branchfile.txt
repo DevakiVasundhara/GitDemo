@@ -1,1 +1,1 @@
-This is a branch-specific file
+This is content for GitNewBranch
